@@ -2,13 +2,6 @@
 
 # ESP8266 WiFi Security Testing Device
 
-
-<img width="654" height="871" alt="image" src="https://github.com/user-attachments/assets/5e22ea88-c599-4c77-85c4-da8fcd219743" />
-
-<img width="1161" height="871" alt="image" src="https://github.com/user-attachments/assets/a2425482-1911-44fa-9b2b-6c54ea4a1ae8" />
-
-<img width="1161" height="871" alt="image" src="https://github.com/user-attachments/assets/77246c81-e18c-4344-aa22-acca3827d402" />
-
 <img width="1161" height="871" alt="image" src="https://github.com/user-attachments/assets/71cb8a38-bdf4-41b1-b14f-57dd01eddb8d" />
 
 
