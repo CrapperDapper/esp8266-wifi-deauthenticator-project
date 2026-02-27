@@ -162,21 +162,6 @@ As a high school student interested in cybersecurity, I wanted to:
 - Test my own home network security
 - Explore the intersection of hardware and software security
 
-### Responsible Use
-
-**What I learned about ethics in security research:**
-
-1. **Knowledge ≠ Permission**
-   - Understanding a vulnerability doesn't justify exploiting it
-   - Always obtain explicit authorization before testing
-
-2. **Education Requires Responsibility**
-   - Security knowledge is powerful and must be used ethically
-   - Projects like this should improve security, not harm users
-
-3. **Transparency Matters**
-   - Documenting methodology helps others learn responsibly
-   - Open discussion of vulnerabilities drives better security standards
 
 ### Moving Forward
 
